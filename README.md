@@ -1,4 +1,4 @@
-EEG_Robotic_Arm
+EEG Robotic Arm
 ===============
 
 An arduino-powered robotic arm controlled by brain activity
